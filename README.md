@@ -11,5 +11,5 @@ DO NOT EXPECT EVERYTHING TO WORK 100%.
 
 [DATABASE](https://github.com/ErringPaladin10-VTILServer/Project-Cobra-DATABASE)
  
-
+## What does this mean?
 # ROBLOX SIDE¹: Think of it as a front end of a website where mostly it's user friendly.
