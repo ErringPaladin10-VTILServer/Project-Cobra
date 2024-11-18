@@ -18,4 +18,4 @@ The documentation on PHP is better than what I can provide, use the documentatio
 If you are on Linux you should have a basic understanding of how to install dependencies,
 Setting them up on the other hand I cannot help you with as I do not have a basic understanding of Linux,
 And for me to give guides I need a basic understanding of said operating system, 
-I will **NOT** give guides to an operating system I do not understand because it's not on 100% guaranteed is going to be right.
+I will **NOT** give guides to an operating system I do not understand because it's not 100% guaranteed is going to be right.
